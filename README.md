@@ -6,11 +6,11 @@ In recent years, prediction-based algorithms have made significant progress in s
 
 # Reference
 > @INPROCEEDINGS{CGCT,
-> author={Zeng, Yi and Xia, Xuewen and Lin, Fenglin and Zhang, Yuehui and Liu, Meitong},
-> booktitle={2025 IEEE Congress on Evolutionary Computation (CEC)},
-> title={A Centroid Guided Cluster Transformation for Dynamic Multi-Objective Optimization Algorithm},
-> year={2025},
-> pages={1-8}
+>   author={Zeng, Yi and Xia, Xuewen and Lin, Fenglin and Zhang, Yuehui and Liu, Meitong},
+>   booktitle={2025 IEEE Congress on Evolutionary Computation (CEC)},
+>   title={A Centroid Guided Cluster Transformation for Dynamic Multi-Objective Optimization Algorithm},
+>   year={2025},
+>   pages={1-8}
 > }
 
 # Usage
