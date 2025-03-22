@@ -18,5 +18,5 @@ Title: A Centroid Guided Cluster Transformation for Dynamic Multi-Objective Opti
 # Usage
 
 - MATLAB 2024b
-- run main.m
+- Run main.m
 
