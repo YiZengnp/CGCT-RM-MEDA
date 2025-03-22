@@ -1,5 +1,7 @@
 # CGCT-RM-MEDA
-This project contains the algorithm's source code (CGCT-RM-MEDA.zip) and the proposed strategy's ablation results (Supplementary Data and Discussion.pdf).
+Title: A Centroid Guided Cluster Transformation for Dynamic Multi-Objective Optimization Algorithm
+- Source code (CGCT-RM-MEDA.zip) 
+- Ablation results (Supplementary Data and Discussion.pdf)
 
 # Reference
 ```
